@@ -410,8 +410,7 @@ Contributions are welcome! Please read our contributing guidelines and code of c
 
 ## Support
 
-- GitHub Issues: [https://github.com/yourusername/securesync/issues](https://github.com/yourusername/securesync/issues)
-- Documentation: [https://securesync.dev/docs](https://securesync.dev/docs)
+- GitHub Issues: [https://github.com/yourusername/securesync/issues](https://github.com/ghopnsrcntrbtr/securesync/issues)
 
 ## Acknowledgments
 
